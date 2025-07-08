@@ -20,7 +20,7 @@ Após análise de todas as métricas, foi recomendada a venda da **Loja 4**, por
 
 ## 📁 Arquivos
 
-- `AluraStore_Analise.ipynb`: Notebook com o código, gráficos e relatório
+- `https://github.com/Eduardo-R-B-A/alura-store-desafio/blob/main/AluraStoreBr.ipynb`: Notebook com o código, gráficos e relatório
 - `gráficos/`: Imagens geradas com Matplotlib
 
 ## 👤 Autor
