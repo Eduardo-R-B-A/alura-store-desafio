@@ -26,4 +26,4 @@ Após análise de todas as métricas, foi recomendada a venda da **Loja 4**, por
 ## 👤 Autor
 
 Eduardo Rodrigues Bezerra Almeida  
-[LinkedIn](linkedin.com/in/eduardo-rodrigues-bezerra-almeida-9554431b4) • [GitHub](github.com/Eduardo-R-B-A)
+[LinkedIn](linkedin.com/in/eduardo-rodrigues-bezerra-almeida-9554431b4/) • [GitHub](github.com/Eduardo-R-B-A)
